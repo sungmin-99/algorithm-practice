@@ -1,12 +1,7 @@
-import sys
-input = sys.stdin.readline
 n = int(input())
-tip=[]
-for _ in range(n):
-    tip.append(int(input()))
-tip.sort(reverse=True)
-answer = 0
+sequence = list(map(int,input().split()))
+sequence.sort()
+ans = [0] * 1001
 for i in range(n):
-    if tip[i] - i >= 0:
-        answer += (tip[i] - i)
-print(answer)
+    ans[i] = sum(sequence[:i+1])
+print(sum(ans))
