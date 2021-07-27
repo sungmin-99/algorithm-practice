@@ -1,5 +1,9 @@
+#시간초과
 from itertools import combinations
 from collections import deque
+import sys
+import copy
+input = sys.stdin.readline
 
 dx = [0, 0, 1, -1]
 dy = [1, -1, 0, 0]
@@ -20,7 +24,7 @@ n, m = map(int, input().split())
 graph = []
 for _ in range(n):
     graph.append(list(map(int, input().split())))
-graphCopy = graph
+graphCopy = copy.deepcopy(graph)
 
 virus = []
 q = deque()
@@ -33,7 +37,7 @@ virusCom = combinations(virus, m)
 ans = 10 ** 10
 for i in virusCom:
     time = 0
-    graph = graphCopy
+    graph = copy.deepcopy(graphCopy)
     for j in i:
         q.append(j)
     bfs()
