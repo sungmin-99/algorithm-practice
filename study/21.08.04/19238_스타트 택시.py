@@ -39,7 +39,7 @@ def fulltaxi(x, y, go):
                 return visit[x][y], nx, ny
             q.appendleft((nx, ny))
             visit[nx][ny] = visit[x][y] + 1
-    return 10 ** 10, 1, 1, 1
+    return 10 ** 10, 1, 1
 
 n, m, fuel = map(int, input().split())
 graph = []
