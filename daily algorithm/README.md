@@ -12,9 +12,8 @@
 * 자료구조와 알고리즘을 설명하며 예제문제를 풀어봅니다.
 * 코딩테스트에 나올 수 있는 모든 유형의 자료구조와 알고리즘을 공부 합니다.
 * 너무 주관적이거나 정확하지 못한 자료를 제보해 주시면 수정하겠습니다.
+* ✔️ 가 표시된 것은 무조건 아셔야 하는 내용입니다.
 -------------
 ## 🐢 sequence
-* 스택
+* [스택](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%8A%A4%ED%83%9D(stack)) ✔️
 <br>
-
-*[백준 알고리즘](https://www.acmicpc.net/user/sungmin9513)*
