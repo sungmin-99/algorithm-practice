@@ -16,4 +16,4 @@
 -------------
 ## 🐢 sequence
 * [스택](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%8A%A4%ED%83%9D(stack)) ✔️
-<br>
+* [큐와 덱](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%ED%81%90(queue)%2C%20%EB%8D%B1(deque)) ✔️
