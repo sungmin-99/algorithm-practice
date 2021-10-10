@@ -17,7 +17,7 @@
 ## 🐢 sequence
 * [스택](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%8A%A4%ED%83%9D(stack)) ✔️
 * [큐와 덱](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%ED%81%90(queue)%2C%20%EB%8D%B1(deque)) ✔️
-* 그리디 ✔️
+* [그리디](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B7%B8%EB%A6%AC%EB%94%94(greedy)) ✔️
 * 에라토스테네스의 체
 * next_permutation
 * 백트래킹 ✔️
