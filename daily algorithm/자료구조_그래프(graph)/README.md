@@ -25,6 +25,15 @@
 
 구현하기는 쉽지만 O(n^2)으로 효율도 안좋은 편이고 2차원 배열로 많은 공간이 필요하기 때문에 자주 사용하지는 않는다.
 
+```python
+n, m = map(int, input().split()) # n = 노드의 개수 m = 간선의 개수
+graph = [[0] * (n + 1) for _ in range(n + 1)]
+for _ in range(m):
+    a, b = map(int, input().split())
+    graph[a][b] = 1
+    graph[b][a] = 1
+```
+
 <br><br><br>
 ### 인접리스트 방식
 <img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FNlh1G%2FbtqKicb2Wub%2FsHWVSS6bn2FZdijEJVR2r1%2Fimg.png">
@@ -32,3 +41,12 @@
 파이썬에서는 2차원 리스트를 사용한다.<br>
 
 구현이 비교적 어렵고 인접정점을 탐색하는 것이 비교적 느리지만 모든 인접정점을 탐색해야 하는 bfs, dfs 알고리즘에서 자주 이용한다.
+
+```python
+n, m = map(int, input().split()) # n = 노드의 개수 m = 간선의 개수
+graph = [[] for _ in range(n + 1)]
+for _ in range(m):
+    a, b = map(int, input().split())
+    graph[a].append(b)
+    graph[b].append(a)
+```
