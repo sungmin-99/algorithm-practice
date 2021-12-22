@@ -26,7 +26,6 @@
 * [너비우선탐색(bfs)](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%84%88%EB%B9%84%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89(bfs)) ✔️
 * 투포인터 ✔️
 * 이분탐색 ✔️
-* 중국인의 나머지정리
 * 다이나믹 프로그래밍 ✔️
 * 플로이드-와샬 ✔️
 * 우선순위 큐 ✔️
