@@ -19,7 +19,7 @@
 * [큐와 덱](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%ED%81%90(queue)%2C%20%EB%8D%B1(deque)) ✔️
 * [그리디](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B7%B8%EB%A6%AC%EB%94%94(greedy)) ✔️
 * [에라토스테네스의 체](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98%20%EC%B2%B4)
-* next_permutation
+* [next_permutation](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_nextPermutation)
 * 백트래킹 ✔️
 * [그래프](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EA%B7%B8%EB%9E%98%ED%94%84(graph)) ✔️
 * [깊이우선탐색(dfs)](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89(dfs)) ✔️
