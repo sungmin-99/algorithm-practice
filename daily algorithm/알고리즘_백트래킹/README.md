@@ -7,7 +7,7 @@
 -------------
 ## 2) 문제
 ### [N-Queen](https://www.acmicpc.net/problem/9663)
-크기가 N x N인 체스판 위에 퀸 N개를 서로 굥격할 수 없게 놓는 문제
+크기가 N x N인 체스판 위에 퀸 N개를 서로 공격할 수 없게 놓는 문제
 ```python
 import sys
 input = sys.stdin.readline
