@@ -24,7 +24,7 @@
 * [그래프](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EA%B7%B8%EB%9E%98%ED%94%84(graph)) ✔️
 * [깊이우선탐색(dfs)](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89(dfs)) ✔️
 * [너비우선탐색(bfs)](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%84%88%EB%B9%84%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89(bfs)) ✔️
-* 투포인터 ✔️
+* [투포인터](https://github.com/sungmin-99/algorithm-practice/tree/master/daily%20algorithm/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0) ✔️
 * 이분탐색 ✔️
 * 다이나믹 프로그래밍 ✔️
 * 플로이드-와샬 ✔️
