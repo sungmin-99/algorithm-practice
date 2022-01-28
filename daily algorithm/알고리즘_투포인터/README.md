@@ -31,3 +31,4 @@ while right <= N and left <= right:
 
 print(cnt)
 ```
+left와 right로 2개의 점의 위치를 기록하면서 문제를 해결한다.
