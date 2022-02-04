@@ -49,3 +49,8 @@ def binary_search(array, target, left, right):
     else: # 오른쪽 구간에 대해 재귀 호출
         binary_search(array, target, mid+1, right) 
 ```
+
+-------------
+
+## 3) 문제
+### [랜선 자르기](https://www.acmicpc.net/problem/1654)
