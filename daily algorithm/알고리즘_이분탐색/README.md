@@ -54,3 +54,30 @@ def binary_search(array, target, left, right):
 
 ## 3) 문제
 ### [랜선 자르기](https://www.acmicpc.net/problem/1654)
+
+```python
+def cutLan(height, lan):
+    result = 0
+    for i in lan:
+        result += i // height
+    return result
+
+k, n = map(int, input().split())
+lan = []
+for i in range(k):
+    lan.append(int(input()))
+
+end = 2147483648
+start = 0
+
+while end - 1 > start:
+    mid = (start + end) // 2
+    ans = cutLan(mid, lan)
+
+    if ans < n:
+        end = mid
+    else:
+        start = mid
+
+print(start)
+```
